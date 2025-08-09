@@ -9,10 +9,9 @@ The goal is to perform **sentiment analysis** on textual data (tweets) to classi
 
 ## 📂 Dataset
 - **Source**: Airline Tweets Dataset
-- **Columns Used**:  
-  - `text` → Tweet content  
-  - `airline_sentiment` → Target sentiment label  
-- The dataset contains tweets mentioning different airlines, labeled with sentiment.
+### 📂 Dataset
+The dataset used in this project is `Tweets.csv`, sourced from:
+[Twitter US Airline Sentiment - Kaggle](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment)
 
 ---
 
