@@ -2,7 +2,6 @@
 # ✈️ Task 4- Sentiment Analysis on Airline Tweets
 
 ## 📌 Overview
-This project is part of my **CODTECH Internship - Task 4**.  
 The goal is to perform **sentiment analysis** on textual data (tweets) to classify them as **Positive, Neutral, or Negative** using **Natural Language Processing (NLP)** techniques.
 
 ---
