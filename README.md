@@ -1,6 +1,18 @@
 # Sentiment-Analysis
 # ✈️ Task 4- Sentiment Analysis on Airline Tweets
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: SIDDHI RAMESH VISHE
+
+*INTERN ID*: CT08DH665
+
+*DOMAIN*: DATA ANALYTICS
+
+*DURATION*: 8 Weeks
+
+*MENTOR* : NEELA SANTOSH
+
 ## 📌 Overview
 The goal is to perform **sentiment analysis** on textual data (tweets) to classify them as **Positive, Neutral, or Negative** using **Natural Language Processing (NLP)** techniques.
 
